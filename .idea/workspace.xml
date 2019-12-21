@@ -16,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Uy6Bt1jpA3b3IDtVlt83ecZ2fL" />
   <component name="ProjectViewState">
@@ -26,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -114,13 +115,17 @@
       <screen x="63" y="0" width="1857" height="1080" />
     </state>
     <state width="917" height="290" key="GridCell.Tab.0.right/63.0.1857.1080@63.0.1857.1080" timestamp="1576867461484" />
-    <state x="492" y="171" key="SettingsEditor" timestamp="1576866793801">
+    <state x="492" y="171" key="SettingsEditor" timestamp="1576921154112">
       <screen x="63" y="0" width="1857" height="1080" />
     </state>
-    <state x="492" y="171" key="SettingsEditor/63.0.1857.1080@63.0.1857.1080" timestamp="1576866793801" />
+    <state x="492" y="171" key="SettingsEditor/63.0.1857.1080@63.0.1857.1080" timestamp="1576921154112" />
     <state x="692" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1576862848194">
       <screen x="63" y="0" width="1857" height="1080" />
     </state>
     <state x="692" y="362" key="com.intellij.ide.util.TipDialog/63.0.1857.1080@63.0.1857.1080" timestamp="1576862848194" />
+    <state x="800" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576921002666">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state x="800" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/63.0.1857.1080@63.0.1857.1080" timestamp="1576921002666" />
   </component>
 </project>
