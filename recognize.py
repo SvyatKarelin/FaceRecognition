@@ -123,7 +123,15 @@ class FaceRecognition:
                 # к предсказанному классу
                 text = "{}: {:.2f}%".format(name, proba * 100)
                 y = startY - 10 if startY - 10 > 10 else startY + 10
+                #y = startY - 10 > 10 ? startY - 10 : startY + 10 аналог в C#
+
+                # зеленый
+                color = (0, 255, 0)
+
+                if "unknown" in text:
+                    color = (0, 0, 255)
+
                 cv2.rectangle(img, (startX, startY), (endX, endY),
-                              (0, 0, 255), 2)
+                              color, 2)
                 cv2.putText(img, text, (startX, y),
-                            cv2.FONT_HERSHEY_SIMPLEX, 0.45, (0, 0, 255), 2)
+                        cv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)
